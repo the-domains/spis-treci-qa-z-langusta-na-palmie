@@ -1,0 +1,1 @@
+# spis-treci-qa-z-langusta-na-palmie
