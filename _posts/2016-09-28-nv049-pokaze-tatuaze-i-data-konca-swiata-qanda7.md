@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-14T21:35:37.541Z'
+datePublished: '2016-10-17T18:40:22.149Z'
 sourcePath: _posts/2016-09-28-nv049-pokaze-tatuaze-i-data-konca-swiata-qanda7.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-14T21:35:36.673Z'
+dateModified: '2016-10-17T18:40:21.613Z'
 title: '[NV#049] Pokaże tatuaże i data końca świata (Q&A#7)'
 publisher: {}
 description: W odcinku został także poruszony temat tatuaży.
