@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-14T21:35:56.307Z'
+datePublished: '2016-10-17T18:40:30.521Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-14T21:35:53.430Z'
+dateModified: '2016-10-17T18:40:29.935Z'
 title: '[NV#034] Grzech przeciwko Duchowi Świętemu (Q&A#5)'
 publisher: {}
 description: ''
