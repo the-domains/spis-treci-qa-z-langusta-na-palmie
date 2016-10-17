@@ -1,9 +1,10 @@
-typography_spectrum: 0.16852142196148634
+layout_spectrum: 0.8153104195181318
+typography_spectrum: 0.5435742136147242
 color:
-  brandStrength: 0.43535181623883545
-  lightness: 0.4562532538548112
-  saturation: 0.36230106954462826
-  rhythmicContrast: 0.20392492366954684
+  brandStrength: 0.4398082298841696
+  lightness: 0.45506464709380257
+  saturation: 0.36352953535753607
+  rhythmicContrast: 0.20680074281298952
   brandColors:
     - '#D8CAA8'
     - '#5C832F'
@@ -11,7 +12,6 @@ color:
     - '#382513'
     - '#363942'
 github: true
-layout_spectrum: 0.21727782860398293
 author:
   name: Krzystos
 name: Nieoficjalny spis tematów  w Q&A na kanale Langusta Na Palmie
