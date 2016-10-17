@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-10-14T21:35:56.527Z'
+datePublished: '2016-10-17T18:40:25.893Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-14T21:35:54.888Z'
+dateModified: '2016-10-17T18:40:25.554Z'
 title: '[NV#042] Jak ty to KRĘCISZ? (Q&A#6)'
 publisher: {}
 description: ''
