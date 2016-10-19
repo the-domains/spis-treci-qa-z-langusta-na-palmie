@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-10-17T18:40:25.893Z'
+datePublished: '2016-10-19T10:49:58.680Z'
+sourcePath: _posts/2016-09-24-nv042-jak-ty-to-krecisz-qanda6.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-17T18:40:25.554Z'
+dateModified: '2016-10-19T10:49:58.072Z'
 title: '[NV#042] Jak ty to KRĘCISZ? (Q&A#6)'
 publisher: {}
 description: ''
-sourcePath: _posts/2016-09-24-nv042-jak-ty-to-krecisz-qanda6.md
 starred: false
 _type: Blurb
 
@@ -15,11 +15,11 @@ _type: Blurb
 # \[NV\#042\] Jak ty to KRĘCISZ? (Q&A\#6)
 [link do youtube][0]
 
-1. A mnie to strasznie ciekawi jak to Ojciec nagrywa? Tak w drodze, na wózku, czy jeszcze lepiej, na rowerze...(MDSzym)
-2. Co sądzisz o filmach gf.darwin (Efek)
-3. Moje pytania z innej beczki a mianowicie: jak przytyć. (Kasia Kowalska)
+1. A mnie to strasznie ciekawi jak to Ojciec nagrywa? Tak w drodze, na wózku, czy jeszcze lepiej, na rowerze...
+2. Co sądzisz o filmach gf.darwin
+3. Moje pytania z innej beczki a mianowicie: jak przytyć.
 4. "ale ten ksiądz ma fajnie, nie musi głowy myć"
-5. "wiecie, że według pisma sw większość ludzi będzie po śmierci potępiona"
+5. "wiecie, że według pisma św większość ludzi będzie po śmierci potępiona"
 6. Czy jak Ojciec odprawia Eucharystię dla siebie samego to sam mówi sobie kazanie" ;P
 7. "a można ubrać się w spadochron?"
 8. Intrygują mnie czarne paski na Ojca koszulce...To szelki, plecak, czy może..pajączek, żeby się nie garbić? ;)
