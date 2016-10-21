@@ -1,16 +1,16 @@
-layout_spectrum: 0.8153104195181318
-typography_spectrum: 0.5435742136147242
+layout_spectrum: 0.1685433484055102
+typography_spectrum: 0.5845567387346141
 color:
-  brandStrength: 0.4398082298841696
-  lightness: 0.45506464709380257
-  saturation: 0.36352953535753607
-  rhythmicContrast: 0.20680074281298952
+  brandStrength: 0.9169748064858083
+  lightness: 0.3236339084064533
+  saturation: 0.03758034593222829
+  rhythmicContrast: 0.3942305230070828
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 github: true
 author:
   name: Krzystos
