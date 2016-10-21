@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-17T18:40:22.149Z'
+datePublished: '2016-10-21T06:54:56.784Z'
 sourcePath: _posts/2016-09-28-nv049-pokaze-tatuaze-i-data-konca-swiata-qanda7.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-17T18:40:21.613Z'
+dateModified: '2016-10-21T06:54:56.019Z'
 title: '[NV#049] Pokaże tatuaże i data końca świata (Q&A#7)'
 publisher: {}
 description: W odcinku został także poruszony temat tatuaży.
@@ -13,7 +13,7 @@ _type: Blurb
 
 ---
 # \[NV\#049\] Pokaże tatuaże i data końca świata (Q&A\#7)
-[link to youtube][0]
+[link do youtube][0]
 
 1. Proszę o odniesienie się w Q&A do fragmentu z Ewangelii wg św. Mateusza "Nikogo też na ziemi nie nazywajcie waszym ojcem; jeden bowiem jest Ojciec wasz, Ten w niebie" Mt23:9 Jak to jest z nazywaniem zakonników/księży "ojcami", papieża Ojcem Świętym, no i last but not least mojego taty - ojcem?
 2. Czy może ojciec wytłumaczyć o co chodzi w apokalipsie i jak się zachować gdy ona nastanie?
