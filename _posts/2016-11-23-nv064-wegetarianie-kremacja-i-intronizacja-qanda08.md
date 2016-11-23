@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-23T13:12:34.454Z'
+datePublished: '2016-11-23T13:23:05.998Z'
 sourcePath: _posts/2016-11-23-nv064-wegetarianie-kremacja-i-intronizacja-qanda08.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-23T13:12:33.851Z'
-title: '[NV#064] Wegetarianie, kremacja i intronizacja (Q&A#08)'
+dateModified: '2016-11-23T13:23:05.582Z'
+title: '[NV#064] Wegetarianie, kremacja i intronizacja (Q&A#8)'
 publisher: {}
 description: ''
 starred: false
 _type: Blurb
 
 ---
-# \[NV\#064\] Wegetarianie, kremacja i intronizacja (Q&A\#08)
+# \[NV\#064\] Wegetarianie, kremacja i intronizacja (Q&A\#8)
 [link do youtube][0]
 
 1. Komentarz do odcinka CNN\[\#09\] (bardzo cenię Ojca wypowiedzi ale z tą totalnie się nie zgadzam czekałem na to święto przygotowywałem się do niego i jestem wdzięczna że mamy Chrystusa za Króla Polski, tak samo jak jest nią Matka Boża, nie rozumiem do końca ojca przesłania. O jakiej komercji Ojciec mówi?)
