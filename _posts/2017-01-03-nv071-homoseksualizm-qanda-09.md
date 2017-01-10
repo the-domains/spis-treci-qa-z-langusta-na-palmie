@@ -1,12 +1,12 @@
 ---
 title: '[NV#071] Homoseksualizm (Q&A 09)'
-dateModified: '2017-01-03T15:38:51.734Z'
+dateModified: '2017-01-10T08:00:28.149Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-01-03T15:38:52.374Z'
+datePublished: '2017-01-10T08:00:29.504Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
