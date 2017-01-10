@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-10T08:03:33.052Z'
-datePublished: '2017-01-10T08:03:33.692Z'
+dateModified: '2017-01-10T08:04:25.377Z'
+datePublished: '2017-01-10T08:04:26.117Z'
 title: '[NV#075] Czy samobójcy idą do piekła?'
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-01-10T08:00:05.804Z'
 _type: Blurb
 
 ---
-## \[NV\#075\] Czy samobójcy idą do piekła?
+# \[NV\#075\] Czy samobójcy idą do piekła?
 [link do youtube][0]
 
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
