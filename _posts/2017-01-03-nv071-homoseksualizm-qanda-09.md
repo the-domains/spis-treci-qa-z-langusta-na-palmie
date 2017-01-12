@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-01-12T10:30:43.984Z'
+dateModified: '2017-01-12T10:32:41.110Z'
 publisher: {}
 author: []
 inFeed: true
-description: ''
+description: '[NV#071] Homoseksualizm (Q&A 09)'
 via: {}
-datePublished: '2017-01-12T10:30:44.496Z'
+datePublished: '2017-01-12T10:32:41.871Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -16,10 +16,11 @@ _context: 'http://schema.org'
 ---
 ### Wybrane filmy w których został poruszony tylko jeden temat:
 
-    <html>
-    <ol type="1">
-      <li>Coffee</li>
-      <li>Tea</li>
-      <li>Milk</li>
-    </ol> 
-    </html>
+\[NV\#071\] Homoseksualizm (Q&A 09)
+[link do youtube][0]
+
+\[NV\#075\] Czy samobójcy idą do piekła?
+[link do youtube][1]
+
+[0]: https://www.youtube.com/watch?v=bEdvItaf3zM&t=2s
+[1]: https://www.youtube.com/watch?v=aJWjigiSNbk
