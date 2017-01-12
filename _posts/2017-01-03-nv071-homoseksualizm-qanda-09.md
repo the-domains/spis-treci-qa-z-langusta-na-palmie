@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-01-12T10:29:51.341Z'
+dateModified: '2017-01-12T10:30:02.471Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-01-12T10:29:52.041Z'
+datePublished: '2017-01-12T10:30:03.040Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
