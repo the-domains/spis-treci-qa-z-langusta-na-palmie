@@ -1,12 +1,12 @@
 ---
 title: '[NV#071] Homoseksualizm (Q&A 09)'
-dateModified: '2017-01-12T10:16:33.857Z'
+dateModified: '2017-01-12T10:18:09.981Z'
 publisher: {}
 author: []
 inFeed: true
-description: '[NV#075] Czy samobójcy idą do piekła?'
+description: ''
 via: {}
-datePublished: '2017-01-12T10:16:35.167Z'
+datePublished: '2017-01-12T10:18:10.446Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -17,7 +17,7 @@ _context: 'http://schema.org'
 ### \[NV\#071\] Homoseksualizm (Q&A 09)
 [link do youtube][0]
 
-**\[NV\#075\] Czy samobójcy idą do piekła?**
+### \[NV\#075\] Czy samobójcy idą do piekła?
 [link do youtube][1]
 
 [0]: https://www.youtube.com/watch?v=bEdvItaf3zM&t=2s
