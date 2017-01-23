@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-23T09:24:22.953Z'
-datePublished: '2017-01-23T09:24:23.703Z'
+dateModified: '2017-01-23T09:25:34.132Z'
+datePublished: '2017-01-23T09:25:35.427Z'
 title: '[NV#080] Joga, WOŚP i skąd mam pieniądze? (Q&A#10)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-23-nv080-joga-wosp-i-skad-mam-pieniadze-qanda10.md
 starred: false
 datePublishedOriginal: '2017-01-23T09:24:23.703Z'
-sourcePath: _posts/2017-01-23-nv080-joga-wosp-i-skad-mam-pieniadze-qanda10.md
 _type: Blurb
 
 ---
