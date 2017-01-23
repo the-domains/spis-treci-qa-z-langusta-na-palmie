@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-23T09:25:34.132Z'
-datePublished: '2017-01-23T09:25:35.427Z'
+dateModified: '2017-01-23T11:59:33.374Z'
+datePublished: '2017-01-23T11:59:33.972Z'
 title: '[NV#080] Joga, WOŚP i skąd mam pieniądze? (Q&A#10)'
 author: []
 publisher: {}
@@ -20,6 +20,6 @@ _type: Blurb
 2. Joga
 3. Mam pytanie o spotkanie z kumplami w piątek (....) Koledzy z pracy proponują spotkanie z kolegą, który od kilku lat zmienił pracę, wyprowadził się do innego miasta i już nie jest w naszym zespole. (....) Czy mogę iść na spotkanie i np. nie pić alkoholu? (...) Dawno się nie wiedzieliśmy z tym kolegą.
 4. Skąd masz pieniądze?
-5. "o KK jako żonie"
+5. (...) I nadal wierzę, że opuści pan KK (...)
 
 [0]: https://www.youtube.com/watch?v=oc0kat7klsI
