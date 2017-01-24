@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-23T09:25:35.891Z'
+datePublished: '2017-01-24T09:38:12.102Z'
 sourcePath: _posts/2016-11-23-nv064-wegetarianie-kremacja-i-intronizacja-qanda08.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-23T09:25:34.132Z'
+dateModified: '2017-01-24T09:38:09.833Z'
 title: '[NV#064] Wegetarianie, kremacja i intronizacja (Q&A#8)'
 publisher: {}
 description: ''
