@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-01-24T10:01:34.171Z'
+dateModified: '2017-01-24T10:06:44.800Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-01-24T10:01:34.622Z'
+datePublished: '2017-01-24T10:06:45.851Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -23,12 +23,12 @@ _context: 'http://schema.org'
 [link do youtube][1]
 
 * \[CNN\#20\] 5 sposobów na na.. \[bycie dobrym chrześcijaninem\]
-
-<button data-role="cta" style="">link do youtube</button>
+[link do youtube][2]
 
 * \[NV\#081\] Weź mi odpuść! \[o odpustach\]
-[link do youtube][2]
+[link do youtube][3]
 
 [0]: https://www.youtube.com/watch?v=bEdvItaf3zM&t=2s
 [1]: https://www.youtube.com/watch?v=aJWjigiSNbk
-[2]: https://www.youtube.com/watch?v=SHmY2OE934Y
+[2]: https://www.youtube.com/watch?v=YWSPXjhGImE
+[3]: https://www.youtube.com/watch?v=SHmY2OE934Y
