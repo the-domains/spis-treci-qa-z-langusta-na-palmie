@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-25T08:09:04.248Z'
-datePublished: '2017-01-25T08:09:04.789Z'
+dateModified: '2017-01-25T08:11:10.823Z'
+datePublished: '2017-01-25T08:11:11.886Z'
 title: '[NV#080] Joga, WOŚP i skąd mam pieniądze? (Q&A#10)'
 author: []
 publisher: {}
@@ -22,8 +22,6 @@ _type: Blurb
 3. Mam pytanie o spotkanie z kumplami w piątek (....) Koledzy z pracy proponują spotkanie z kolegą, który od kilku lat zmienił pracę, wyprowadził się do innego miasta i już nie jest w naszym zespole. (....) Czy mogę iść na spotkanie i np. nie pić alkoholu? (...) Dawno się nie wiedzieliśmy z tym kolegą.
 4. Skąd masz pieniądze?
 5. (...) I nadal wierzę, że opuści pan KK (...)
-
----
 
 # \[NV\#071\] Homoseksualizm (Q&A 09)
 [link do youtube][1]
