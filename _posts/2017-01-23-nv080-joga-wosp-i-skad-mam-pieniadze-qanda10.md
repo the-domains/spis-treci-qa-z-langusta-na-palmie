@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T09:38:09.833Z'
-datePublished: '2017-01-24T09:38:11.999Z'
+dateModified: '2017-01-25T08:04:28.045Z'
+datePublished: '2017-01-25T08:04:28.784Z'
 title: '[NV#080] Joga, WOŚP i skąd mam pieniądze? (Q&A#10)'
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-01-23T09:24:23.703Z'
 _type: Blurb
 
 ---
-# \[NV\#080\] Joga, WOŚP i skąd mam pieniądze? (Q&A\#10)
+## \[NV\#080\] Joga, WOŚP i skąd mam pieniądze? (Q&A\#10)
 [link do youtube][0]
 
 1. Wielka Orkiestra Świątecznej Pomocy
@@ -22,4 +22,8 @@ _type: Blurb
 4. Skąd masz pieniądze?
 5. (...) I nadal wierzę, że opuści pan KK (...)
 
+## \[NV\#071\] Homoseksualizm (Q&A 09)
+[link do youtube][1]
+
 [0]: https://www.youtube.com/watch?v=oc0kat7klsI
+[1]: https://www.youtube.com/watch?v=bEdvItaf3zM&t=2s
