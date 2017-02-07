@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-07T22:00:40.752Z'
-datePublished: '2017-02-07T22:00:41.564Z'
+dateModified: '2017-02-07T22:00:57.244Z'
+datePublished: '2017-02-07T22:00:58.328Z'
 title: '[NV#085] Czy można wierzyć w sny, noc poślubna (Q&A#11)'
 author: []
 publisher: {}
