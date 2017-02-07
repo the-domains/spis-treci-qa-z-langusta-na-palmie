@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-25T08:12:43.708Z'
-datePublished: '2017-01-25T08:12:44.185Z'
+dateModified: '2017-02-07T22:00:57.244Z'
+datePublished: '2017-02-07T22:00:58.341Z'
 title: '[NV#080] Joga, WOŚP i skąd mam pieniądze? (Q&A#10)'
 author: []
 publisher: {}
