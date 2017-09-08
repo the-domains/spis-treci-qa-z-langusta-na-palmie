@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-07-21T07:15:17.040Z'
+datePublished: '2017-09-08T06:04:08.470Z'
 sourcePath: _posts/2016-09-19-nv034-grzech-przeciwko-duchowi-swietemu-qanda5.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-07-21T07:15:16.623Z'
+dateModified: '2017-09-08T06:04:07.874Z'
 title: '[NV#034] Grzech przeciwko Duchowi Świętemu (Q&A#5)'
 publisher: {}
 description: ''
