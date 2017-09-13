@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-09-08T06:04:07.874Z'
+dateModified: '2017-09-13T06:29:59.851Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-09-08T06:04:08.461Z'
+datePublished: '2017-09-13T06:30:00.686Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -28,10 +28,19 @@ _context: 'http://schema.org'
 * \[CNN\#035\] 4 zasady duchowego wzrostu
 [link do youtube][3]
 
-* \[CNN\#036\] Jak naprawić popsutą miłość? [link do youtube][4]
+* \[CNN\#036\] Jak naprawić popsutą miłość?
+[link do youtube][4]
+
+* \[NV\#132\] Zbawienie z uczynków czy z wiary?
+[link do youtube][5]
+
+* \[CNN\#042\] Jak upominać?
+[link do youtube][6]
 
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
 [1]: https://www.youtube.com/watch?v=YWSPXjhGImE
 [2]: https://www.youtube.com/watch?v=SHmY2OE934Y
 [3]: https://www.youtube.com/watch?v=PeWtGPUEmmA
 [4]: https://www.youtube.com/watch?v=MaIJjgNm68Y
+[5]: https://www.youtube.com/watch?v=A3nyBIf0xeQ
+[6]: https://www.youtube.com/watch?v=xCXjT0wHECk
