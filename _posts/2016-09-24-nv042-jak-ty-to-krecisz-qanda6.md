@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-15T19:39:28.476Z'
+datePublished: '2017-09-27T08:49:46.679Z'
 sourcePath: _posts/2016-09-24-nv042-jak-ty-to-krecisz-qanda6.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-09-15T19:39:27.546Z'
+dateModified: '2017-09-27T08:49:45.797Z'
 title: '[NV#042] Jak ty to KRĘCISZ? (Q&A#6)'
 publisher: {}
 description: ''
