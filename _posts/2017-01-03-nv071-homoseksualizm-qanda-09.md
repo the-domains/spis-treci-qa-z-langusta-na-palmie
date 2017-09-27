@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-09-27T08:49:45.797Z'
+dateModified: '2017-09-27T09:11:39.006Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-09-27T08:49:46.753Z'
+datePublished: '2017-09-27T09:11:39.706Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -19,7 +19,7 @@ _context: 'http://schema.org'
 * \[NV\#075\] Czy samobójcy idą do piekła?
 [link do youtube][0]
 
-* \[CNN\#20\] 5 sposobów na na.. \[bycie dobrym chrześcijaninem\]
+* \[CNN\#20\] 5 sposobów na.. \[bycie dobrym chrześcijaninem\]
 [link do youtube][1]
 
 * \[NV\#081\] Weź mi odpuść! \[o odpustach\]
