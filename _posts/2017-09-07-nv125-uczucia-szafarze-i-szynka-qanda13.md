@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-15T19:39:27.546Z'
-datePublished: '2017-09-15T19:39:28.483Z'
+dateModified: '2017-09-27T08:49:45.797Z'
+datePublished: '2017-09-27T08:49:46.737Z'
 title: '[NV#130] Skąd się bierze ZAKOCHANIE? (Q&A#14)'
 author: []
 publisher: {}
