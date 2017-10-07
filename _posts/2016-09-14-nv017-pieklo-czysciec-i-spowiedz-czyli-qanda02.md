@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-27T08:49:46.773Z'
+datePublished: '2017-10-07T17:56:54.818Z'
 sourcePath: _posts/2016-09-14-nv017-pieklo-czysciec-i-spowiedz-czyli-qanda02.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-09-27T08:49:45.797Z'
+dateModified: '2017-10-07T17:56:54.276Z'
 title: '[NV#017] Piekło, czyściec i spowiedź, czyli Q&A#02'
 publisher: {}
 description: ''
