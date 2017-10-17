@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-10-07T18:07:52.223Z'
+dateModified: '2017-10-17T07:11:38.868Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-10-07T18:07:52.872Z'
+datePublished: '2017-10-17T07:11:39.765Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -37,6 +37,9 @@ _context: 'http://schema.org'
 * \[CNN\#042\] Jak upominać?
 [link do youtube][6]
 
+* \[NV\#142\] Jak podejmować właściwe decyzje?
+[link do youtube][7]
+
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
 [1]: https://www.youtube.com/watch?v=YWSPXjhGImE
 [2]: https://www.youtube.com/watch?v=SHmY2OE934Y
@@ -44,3 +47,4 @@ _context: 'http://schema.org'
 [4]: https://www.youtube.com/watch?v=MaIJjgNm68Y
 [5]: https://www.youtube.com/watch?v=A3nyBIf0xeQ
 [6]: https://www.youtube.com/watch?v=xCXjT0wHECk
+[7]: https://www.youtube.com/watch?v=ljo_Xz-QY2E
