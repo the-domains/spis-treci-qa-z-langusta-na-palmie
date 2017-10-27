@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-19T07:58:24.171Z'
-datePublished: '2017-10-19T07:58:24.685Z'
+dateModified: '2017-10-27T07:24:01.901Z'
+datePublished: '2017-10-27T07:24:02.799Z'
 title: '[NV#140] Kontakty ze zmarłymi, reinkarnacja, ufo (Q&A#17)'
 author: []
 publisher: {}
