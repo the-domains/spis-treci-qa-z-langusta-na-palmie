@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Link do pierwszego filmu serii, kolejne filmy w serii to:'
-dateModified: '2017-11-05T14:24:57.049Z'
-datePublished: '2017-11-05T14:24:57.678Z'
+dateModified: '2017-11-05T14:24:58.647Z'
+datePublished: '2017-11-05T14:24:59.089Z'
 title: NIESZCZĘŚNI - seria
 author: []
 publisher: {}
