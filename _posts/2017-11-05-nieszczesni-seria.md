@@ -1,22 +1,22 @@
 ---
 inFeed: true
-description: 'Link do pierwszego filmu serii, kolejne firmy w serii to:'
-dateModified: '2017-11-05T14:23:23.760Z'
-datePublished: '2017-11-05T14:23:24.956Z'
+description: 'Link do pierwszego filmu serii, kolejne filmy w serii to:'
+dateModified: '2017-11-05T14:24:38.647Z'
+datePublished: '2017-11-05T14:24:39.389Z'
 title: NIESZCZĘŚNI - seria
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-05-nieszczesni-seria.md
 starred: false
 datePublishedOriginal: '2017-11-05T14:23:24.956Z'
-sourcePath: _posts/2017-11-05-nieszczesni-seria.md
 _type: Blurb
 
 ---
 # NIESZCZĘŚNI - seria
 [link do youtube][0]
 
-Link do pierwszego filmu serii, kolejne firmy w serii to:
+Link do pierwszego filmu serii, kolejne filmy w serii to:
 
 * NIESZCZĘŚNI \[\#01\] Po głowach demonów
 * NIESZCZĘŚNI \[\#2\] Pustka
