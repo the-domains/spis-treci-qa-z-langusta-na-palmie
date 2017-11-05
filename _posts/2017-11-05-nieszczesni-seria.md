@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Link do pierwszego filmu serii, kolejne filmy w serii to:'
-dateModified: '2017-11-05T14:24:38.647Z'
-datePublished: '2017-11-05T14:24:39.389Z'
+dateModified: '2017-11-05T14:24:57.049Z'
+datePublished: '2017-11-05T14:24:57.678Z'
 title: NIESZCZĘŚNI - seria
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ _type: Blurb
 
 Link do pierwszego filmu serii, kolejne filmy w serii to:
 
-* NIESZCZĘŚNI \[\#01\] Po głowach demonów
+* NIESZCZĘŚNI \[\#1\] Po głowach demonów
 * NIESZCZĘŚNI \[\#2\] Pustka
 * NIESZCZĘŚNI \[\#3\] Ściana
 * NIESZCZĘŚNI \[\#4\] Skąd się biorą choroby?
