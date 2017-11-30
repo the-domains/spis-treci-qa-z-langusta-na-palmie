@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Link do pierwszego filmu serii, kolejne filmy w serii to:'
-dateModified: '2017-11-30T20:19:25.965Z'
-datePublished: '2017-11-30T20:19:26.813Z'
+dateModified: '2017-11-30T20:19:32.263Z'
+datePublished: '2017-11-30T20:19:32.930Z'
 title: NIESZCZĘŚNI - seria
 author: []
 publisher: {}
@@ -28,6 +28,5 @@ Link do pierwszego filmu serii, kolejne filmy w serii to:
 * NIESZCZĘŚNI \[\#8\] Jak doświadczyć cudu?
 * NIESZCZĘŚNI \[9\] Złamane serce
 * NIESZCZĘŚNI \[\#10\] Jak przyjąć i ofiarować cierpienie
-* 
 
 [0]: https://www.youtube.com/watch?v=dkCH3HOR1Q4&list=PLRSGEZKuzW-6szIKf65KvUZsFEf4_icvA
