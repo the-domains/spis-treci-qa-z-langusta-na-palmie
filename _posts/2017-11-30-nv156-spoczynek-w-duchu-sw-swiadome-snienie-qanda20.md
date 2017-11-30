@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-30T20:16:56.978Z'
-datePublished: '2017-11-30T20:16:57.785Z'
+dateModified: '2017-11-30T20:17:30.684Z'
+datePublished: '2017-11-30T20:17:31.258Z'
 title: '[NV#156] Spoczynek w Duchu Św, świadome śnienie (Q&A#20)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-30-nv156-spoczynek-w-duchu-sw-swiadome-snienie-qanda20.md
 starred: false
 datePublishedOriginal: '2017-11-30T20:16:57.785Z'
-sourcePath: _posts/2017-11-30-nv156-spoczynek-w-duchu-sw-swiadome-snienie-qanda20.md
 _type: Blurb
 
 ---
