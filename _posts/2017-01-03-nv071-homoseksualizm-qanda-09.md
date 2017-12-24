@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2017-11-30T20:17:30.684Z'
+dateModified: '2017-12-24T21:09:04.227Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-11-30T20:17:31.271Z'
+datePublished: '2017-12-24T21:09:04.876Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -40,6 +40,9 @@ _context: 'http://schema.org'
 * \[NV\#142\] Jak podejmować właściwe decyzje?
 [link do youtube][7]
 
+* \[CNN\#057\] Jak rozpoznać wolę Bożą?
+[link do youtube][8]
+
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
 [1]: https://www.youtube.com/watch?v=YWSPXjhGImE
 [2]: https://www.youtube.com/watch?v=SHmY2OE934Y
@@ -48,3 +51,4 @@ _context: 'http://schema.org'
 [5]: https://www.youtube.com/watch?v=A3nyBIf0xeQ
 [6]: https://www.youtube.com/watch?v=xCXjT0wHECk
 [7]: https://www.youtube.com/watch?v=ljo_Xz-QY2E
+[8]: https://www.youtube.com/watch?v=poK6KRVE0Bk
