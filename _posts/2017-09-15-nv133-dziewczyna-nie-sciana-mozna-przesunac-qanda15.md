@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Uzupełnienia do poprzedniego odcinka / wyjaśnienia do nieporozumień etc
-dateModified: '2017-11-30T20:17:30.684Z'
-datePublished: '2017-11-30T20:17:31.226Z'
+dateModified: '2018-01-23T19:30:08.978Z'
+datePublished: '2018-01-23T19:30:10.177Z'
 title: '[NV#133] Dziewczyna nie ściana - można przesunąć (Q&A#15)'
 author: []
 publisher: {}
