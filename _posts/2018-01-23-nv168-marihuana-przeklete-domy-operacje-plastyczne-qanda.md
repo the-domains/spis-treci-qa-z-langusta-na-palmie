@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-23T19:18:32.232Z'
-datePublished: '2018-01-23T19:18:33.043Z'
+dateModified: '2018-01-23T19:23:37.812Z'
+datePublished: '2018-01-23T19:23:38.659Z'
 title: '[NV#168] Marihuana, przeklęte domy, operacje plastyczne (Q&A#21)'
 author: []
 publisher: {}
@@ -24,5 +24,7 @@ _type: Blurb
 6. Czy Bóg ma określoną płeć?
 7. Czy jezuita może zostać dominikaninem?
 8. Czy lepiej jest wynajmować mieszkanie czy mieszkać z rodzicami w domu dopóki jest się samemu?
+9. Co myśli Ojciec o operacjach plastycznych i wszelkich zabiegach upiększających?
+10. Od miesiąca praktycznie przestałam się modlić, myślę, że głównie dlatego iż wstydzę się odezwać do Boga. Mam wrażenie, że ostatnio stałam się najgorszym człowiekiem na ziemi, ciągłe porażki i poczucie wypalenia w życiu (mimo, że mam tylko 18 lat) sprawiają, że staję się paskudną osobą.
 
 [0]: https://www.youtube.com/watch?v=C7SPqcx5R14
