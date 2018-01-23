@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-30T20:17:30.684Z'
-datePublished: '2017-11-30T20:17:31.198Z'
+dateModified: '2018-01-23T19:30:08.978Z'
+datePublished: '2018-01-23T19:30:10.347Z'
 title: '[NV#147]  Poronienie, talenty, horrory (Q&A#19)'
 author: []
 publisher: {}
