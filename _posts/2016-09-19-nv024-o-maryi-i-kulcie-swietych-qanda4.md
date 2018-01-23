@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-11-30T20:17:31.248Z'
+datePublished: '2018-01-23T19:30:10.389Z'
 sourcePath: _posts/2016-09-19-nv024-o-maryi-i-kulcie-swietych-qanda4.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-11-30T20:17:30.684Z'
+dateModified: '2018-01-23T19:30:08.978Z'
 title: '[NV#024] O Maryi i kulcie świętych (Q&A#4)'
 publisher: {}
 description: ''
