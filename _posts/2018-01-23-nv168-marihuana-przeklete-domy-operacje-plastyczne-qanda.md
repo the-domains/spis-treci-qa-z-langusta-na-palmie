@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-24T13:22:03.867Z'
-datePublished: '2018-01-24T13:22:04.826Z'
+dateModified: '2018-01-24T13:27:58.763Z'
+datePublished: '2018-01-24T13:27:59.548Z'
 title: '[NV#168] Marihuana, przeklęte domy, operacje plastyczne (Q&A#21)'
 author: []
 publisher: {}
@@ -27,6 +27,6 @@ _type: Blurb
 9. Co myśli Ojciec o operacjach plastycznych i wszelkich zabiegach upiększających?
 10. Od miesiąca praktycznie przestałam się modlić, myślę, że głównie dlatego iż wstydzę się odezwać do Boga. Mam wrażenie, że ostatnio stałam się najgorszym człowiekiem na ziemi, ciągłe porażki i poczucie wypalenia w życiu (mimo, że mam tylko 18 lat) sprawiają, że staję się paskudną osobą.
 11. <odpowiedzi na pochwały i hejty\>
-12. <czy można jeść podczas oglądania filmików na Languście, w tym podczas czytania Ewangelii\>
+12. Często słuchając filmików Ojca robię inne rzeczy np. jem, ubieram się, sprzątam itp. Czy takie moje postępowanie jest godne, ponieważ np. Ojciec mówi o Ewangelii a ja przeżuwam pokarm. Proszę o odpowiedź.
 
 [0]: https://www.youtube.com/watch?v=C7SPqcx5R14
