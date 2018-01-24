@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-23T19:30:08.978Z'
-datePublished: '2018-01-23T19:30:10.345Z'
+dateModified: '2018-01-24T13:22:03.867Z'
+datePublished: '2018-01-24T13:22:04.826Z'
 title: '[NV#168] Marihuana, przeklęte domy, operacje plastyczne (Q&A#21)'
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Blurb
 2. To jeszcze Ojciec o tzw. "modlitwie w językach" opowie co też na takich spotkaniach jest propagowana:))))
 3. Co Ojciec myśli o "przeklętych miejscach"? Czy miejsce może być przeklęte? a co gdybyśmy je poświęcili?
 4. Ojcze mam pytanko odnośnie datków kościelnych za posługi sakramentalne. Dlaczego jest to wymagane w kościołach co z ludźmi, których na to nie stać a chcą pochować osobę wierzącą.
-5. \[o nieprawdziwych wypowiedziach papieża\] Co Ojciec sądzi o homilii Ojca Świętego, chyba z kwietnia, kiedy powiedział... 
+5. \[o nieprawdziwych wypowiedziach papieża\] Co Ojciec sądzi o homilii Ojca Świętego, chyba z kwietnia, kiedy powiedział...
 6. Czy Bóg ma określoną płeć?
 7. Czy jezuita może zostać dominikaninem?
 8. Czy lepiej jest wynajmować mieszkanie czy mieszkać z rodzicami w domu dopóki jest się samemu?
@@ -28,6 +28,5 @@ _type: Blurb
 10. Od miesiąca praktycznie przestałam się modlić, myślę, że głównie dlatego iż wstydzę się odezwać do Boga. Mam wrażenie, że ostatnio stałam się najgorszym człowiekiem na ziemi, ciągłe porażki i poczucie wypalenia w życiu (mimo, że mam tylko 18 lat) sprawiają, że staję się paskudną osobą.
 11. <odpowiedzi na pochwały i hejty\>
 12. <czy można jeść podczas oglądania filmików na Languście, w tym podczas czytania Ewangelii\>
-13. 
 
 [0]: https://www.youtube.com/watch?v=C7SPqcx5R14
