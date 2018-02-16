@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T19:52:13.166Z'
-datePublished: '2018-02-16T19:52:14.075Z'
+dateModified: '2018-02-16T20:00:55.627Z'
+datePublished: '2018-02-16T20:00:56.463Z'
 title: '[NV#174] Medjugorie, grzechy Kościoła, hazard, gwałt  (Q&A#22)'
 author: []
 publisher: {}
@@ -29,5 +29,6 @@ _type: Blurb
 11. Co Ojciec sądzi o praktykach Berta Helingera i o terapeutycznym wymiarze stworzonych przez niego ustawień?
 12. Piszę z dość trudnym pytaniem. W wakacje tego roku mój szef chciał mnie zgwałcić. Udało mi się uciec, nawet zgłosić to na policję, jednak czuję, że moja dusza jest rozbita na kawałki i gromadzi się w niej mrok. Ten mężczyzna został już ukarany wyrokiem sądu. Jednak mimo to, że minęło już tak dużo czasu nie mogę o tym zapomnieć. Leczę się psychiatrycznie jednak to nie pomaga. Pytałem nawet swojego spowiednika co mam zrobić, co mam zrobić by czuć się lepiej. Jak na nowo spojrzeć na swoje ciało i zaufać ludziom, którzy chcieliby być blisko? Modlę się codziennie jednak ten mrok nieustannie mnie przytłacza. Co mogę zrobić by było lepiej? Jak pokochać się na nowo? I czy ten wstręt do siebie kiedyś minie?
 13. Bardzo bym chciała w przyszłości pracować jako sędzia w sądzie rodzinnym. Z tą pracą, niestety, wiąże się między innymi udzielanie rozwodów. (...) Czy jako katoliczka w ogóle powinnam rozważać taki rodzaj pracy? Czy będzie mi to poczytane jako grzech?
+14. Gdy po dwóch latach związku zostawił mnie mój ukochany mój świat legł z gruzach. Zadręczałem wtedy moją cudowną patronkę św. Ritę. Obiecałem jej wtedy, że jeśli mnie wysłucha i ten kretyn wróci, to ja już nigdy nie zjem żelek. (...) On wrócił po trzech miesiącach, ja namalowałem Ritę i do tej pory nie zjadłam ani jednej żelki. Problem w tym, że po następnych dwóch latach on znów odszedł. (...) Rozstaliśmy się definitywnie (... ) ja dalej nie jem żelek (...) czy przy takim obrocie sprawy, jestem zwolniona z obietnicy i mogę kupić sobie paczkę?
 
 [0]: https://www.youtube.com/watch?v=djrQyPWpOB8
