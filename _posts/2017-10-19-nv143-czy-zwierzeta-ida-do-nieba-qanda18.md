@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-23T19:30:08.978Z'
-datePublished: '2018-01-23T19:30:10.176Z'
+dateModified: '2018-02-16T20:01:17.566Z'
+datePublished: '2018-02-16T20:01:19.662Z'
 title: '[NV#143]  Czy zwierzęta idą do nieba? (Q&A#18)'
 author: []
 publisher: {}
