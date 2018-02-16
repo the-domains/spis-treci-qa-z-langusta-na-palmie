@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2018-01-23T19:30:08.978Z'
+dateModified: '2018-02-16T18:58:21.760Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2018-01-23T19:30:10.385Z'
+datePublished: '2018-02-16T18:58:22.652Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -43,6 +43,9 @@ _context: 'http://schema.org'
 * \[CNN\#057\] Jak rozpoznać wolę Bożą?
 [link do youtube][8]
 
+* STRASZNE REKOLEKCJE 2 \[\#2\] TAKTYKI SZATANA
+[link do youtube][9]
+
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
 [1]: https://www.youtube.com/watch?v=YWSPXjhGImE
 [2]: https://www.youtube.com/watch?v=SHmY2OE934Y
@@ -52,3 +55,4 @@ _context: 'http://schema.org'
 [6]: https://www.youtube.com/watch?v=xCXjT0wHECk
 [7]: https://www.youtube.com/watch?v=ljo_Xz-QY2E
 [8]: https://www.youtube.com/watch?v=poK6KRVE0Bk
+[9]: https://www.youtube.com/watch?v=aBCyrUIWors
