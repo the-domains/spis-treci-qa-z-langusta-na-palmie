@@ -1,12 +1,12 @@
 ---
 title: 'Wybrane filmy w których został poruszony tylko jeden temat:'
-dateModified: '2018-02-16T18:58:21.760Z'
+dateModified: '2018-02-16T19:06:41.535Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2018-02-16T18:58:22.652Z'
+datePublished: '2018-02-16T19:06:42.515Z'
 sourcePath: _posts/2017-01-03-nv071-homoseksualizm-qanda-09.md
 starred: false
 datePublishedOriginal: '2017-01-03T15:34:46.750Z'
@@ -46,6 +46,9 @@ _context: 'http://schema.org'
 * STRASZNE REKOLEKCJE 2 \[\#2\] TAKTYKI SZATANA
 [link do youtube][9]
 
+* \[NV\#175\] Czy psychologię można pogodzić z wiarą?
+[link do youtube][10]
+
 [0]: https://www.youtube.com/watch?v=aJWjigiSNbk
 [1]: https://www.youtube.com/watch?v=YWSPXjhGImE
 [2]: https://www.youtube.com/watch?v=SHmY2OE934Y
@@ -56,3 +59,4 @@ _context: 'http://schema.org'
 [7]: https://www.youtube.com/watch?v=ljo_Xz-QY2E
 [8]: https://www.youtube.com/watch?v=poK6KRVE0Bk
 [9]: https://www.youtube.com/watch?v=aBCyrUIWors
+[10]: https://www.youtube.com/watch?v=9Ys5e_zT8uI
