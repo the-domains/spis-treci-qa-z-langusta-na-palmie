@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-23T19:30:08.978Z'
-datePublished: '2018-01-23T19:30:10.344Z'
+dateModified: '2018-02-16T20:01:17.566Z'
+datePublished: '2018-02-16T20:01:19.727Z'
 title: '[NV#111] In vitro, Czy jestem fałszywym prorokiem? [Q&A#12]'
 author: []
 publisher: {}
