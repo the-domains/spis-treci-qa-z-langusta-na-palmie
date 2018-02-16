@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T19:38:08.561Z'
-datePublished: '2018-02-16T19:38:09.345Z'
+dateModified: '2018-02-16T19:52:13.166Z'
+datePublished: '2018-02-16T19:52:14.075Z'
 title: '[NV#174] Medjugorie, grzechy Kościoła, hazard, gwałt  (Q&A#22)'
 author: []
 publisher: {}
@@ -23,6 +23,11 @@ _type: Blurb
 5. Jak sobie poradzić z grzechami Kościoła, z gwałtami, chciwością itp. Ja wiem modlitwa; ale chodzi mi o ten ciężar gdy moi niezbyt wierzący bliscy wytykają mi te sprawy. Co z tym zrobić?
 6. Jakie zdanie ma Kościół na temat dotyczący oddawania organów dla ratowania życia innego człowieka? 
 7. Czy warto szukać przewodnika duchowego? I jak to zrobić? Od czego zacząć?
-8. 
+8. Czy ojciec zaprezentuje jak pielęgnuje swoją brodę?
+9. Czy hazard, obstawianie u bukmacherów, różnego rodzaju zakłady z drugą osobą nawet o minimalnej wartości jest grzechem? Czy jest jakaś miara, która określa kiedy jakaś czynność hazardowa jest już złem albo w miarę przyzwoitości jest neutralna.
+10. Jak żyć?
+11. Co Ojciec sądzi o praktykach Berta Helingera i o terapeutycznym wymiarze stworzonych przez niego ustawień?
+12. Piszę z dość trudnym pytaniem. W wakacje tego roku mój szef chciał mnie zgwałcić. Udało mi się uciec, nawet zgłosić to na policję, jednak czuję, że moja dusza jest rozbita na kawałki i gromadzi się w niej mrok. Ten mężczyzna został już ukarany wyrokiem sądu. Jednak mimo to, że minęło już tak dużo czasu nie mogę o tym zapomnieć. Leczę się psychiatrycznie jednak to nie pomaga. Pytałem nawet swojego spowiednika co mam zrobić, co mam zrobić by czuć się lepiej. Jak na nowo spojrzeć na swoje ciało i zaufać ludziom, którzy chcieliby być blisko? Modlę się codziennie jednak ten mrok nieustannie mnie przytłacza. Co mogę zrobić by było lepiej? Jak pokochać się na nowo? I czy ten wstręt do siebie kiedyś minie?
+13. Bardzo bym chciała w przyszłości pracować jako sędzia w sądzie rodzinnym. Z tą pracą, niestety, wiąże się między innymi udzielanie rozwodów. (...) Czy jako katoliczka w ogóle powinnam rozważać taki rodzaj pracy? Czy będzie mi to poczytane jako grzech?
 
 [0]: https://www.youtube.com/watch?v=djrQyPWpOB8
