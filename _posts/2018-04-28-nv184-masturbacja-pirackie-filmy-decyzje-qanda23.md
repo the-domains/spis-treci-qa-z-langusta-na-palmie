@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-29T15:25:24.951Z'
-datePublished: '2018-04-29T15:25:25.886Z'
-title: '[NV#184] Masturbacja, pirackie filmy, decyzje (Q&A#23)'
+dateModified: '2018-04-29T15:26:24.671Z'
+datePublished: '2018-04-29T15:26:25.684Z'
+title: '[NV#187] Dlaczego masturbacja jest zła i jak z niej wyjść?'
 author: []
 publisher: {}
 via: {}
@@ -13,8 +13,11 @@ datePublishedOriginal: '2018-04-28T06:32:54.486Z'
 _type: Blurb
 
 ---
-# \[NV\#184\] Masturbacja, pirackie filmy, decyzje (Q&A\#23)
+# \[NV\#187\] Dlaczego masturbacja jest zła i jak z niej wyjść?
 [link do youtube][0]
+
+# \[NV\#184\] Masturbacja, pirackie filmy, decyzje (Q&A\#23)
+[link do youtube][1]
 
 1. Drogi ojcze Adamie mam pytanie, mianowicie często proszę Boga o natchnienie w podjęciu odpowiedniej decyzji, takiej która byłaby po jego myśli. Po pewnym czasie w mojej głowie pojawia się kilka wariantów i sam nie wiem, który wybrać, którym jest ten wskazany przez Boga. Nurtuje mnie to pytanie dosyć długo i bardzo bym chciał poznać na nie odpowiedź ;)
 2. Rzeczą oczywistą jest to, że masturbacja u mężczyzn jest grzechem ciężkim a co z masturbacją u kobiet. Ostatnio odkąd mam problemy zdrowotne bardzo cierpię i raz przypadkowo zdarzyło mi się masturbować a potem kolejne, ponieważ to daje chwile bez cierpienia. Co Ojciec o tym sądzi? Bo mało o tym się mówi.
@@ -22,4 +25,5 @@ _type: Blurb
 4. Kiedyś ojciec mówił o tym, że żaden ksiądz, biskup, papież nie jest święty za samo bycie duchownym a jednak istnieje dogmat o nieomylności papieża w kwestiach wiary. Czy to nie jest trochę sprzeczne?
 5. Czy ma ojciec jakąś sprawdzoną metodą na to jak korzystać uczciwie czyli legalnie z zasobów internetu jak np. filmy, muzyka, e-booki, komiksy? (...)
 
-[0]: https://www.youtube.com/watch?v=SfiVPvE0tD4
+[0]: https://www.youtube.com/watch?v=Uti6Z8sDBE8
+[1]: https://www.youtube.com/watch?v=SfiVPvE0tD4
