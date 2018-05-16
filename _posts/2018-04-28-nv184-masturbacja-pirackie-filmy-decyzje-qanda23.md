@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-29T15:26:24.671Z'
-datePublished: '2018-04-29T15:26:25.684Z'
-title: '[NV#187] Dlaczego masturbacja jest zła i jak z niej wyjść?'
+dateModified: '2018-05-16T19:20:28.046Z'
+datePublished: '2018-05-16T19:20:28.996Z'
+title: '[NV#187] Dlaczego masturbacja jest zła i jak z niej wyjść? (Q&A#24)'
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2018-04-28T06:32:54.486Z'
 _type: Blurb
 
 ---
-# \[NV\#187\] Dlaczego masturbacja jest zła i jak z niej wyjść?
+# \[NV\#187\] Dlaczego masturbacja jest zła i jak z niej wyjść? (Q&A\#24)
 [link do youtube][0]
 
 # \[NV\#184\] Masturbacja, pirackie filmy, decyzje (Q&A\#23)
