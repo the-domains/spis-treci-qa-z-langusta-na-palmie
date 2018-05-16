@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-16T20:35:30.886Z'
-datePublished: '2018-05-16T20:35:31.763Z'
+dateModified: '2018-05-16T20:37:53.826Z'
+datePublished: '2018-05-16T20:37:54.786Z'
 title: '[NV#198] Gry komputerowe, depresja, apostazja (Q&A#26)'
 author: []
 publisher: {}
@@ -29,6 +29,6 @@ _type: Blurb
 11. Ostatnio babcia przyniosła mi rozerwany różaniec (...) czy taki zniszczony różaniec można wyrzucić?
 12. A co to jest katonklaksa?
 13. \[GRY KOMPUTEROWE\] Mój 12-letni syn wpadł w sidła uzależnienia od gry (...) od 3 tygodni odmawia chodzenia do szkoły, stał się agresywny i nie liczy się dla niego żaden autorytet. Dodam, że do tej pory był zawsze jednym z najzdolniejszych uczniów w całej szkole. Stajemy z mężem na rzęsach żeby go od tego odciągnąć ale nic nie skutkuje.
-14. 
+14. Chciałam zapytać czy Ojciec nie czuje się samotny? Ciągle jest Ojciec w drodze i ciągle w innych miejscach i ciągle otoczony nowymi obcymi ludźmi. Czy nie ma Ojciec niekiedy tego dość? (...)
 
 [0]: https://www.youtube.com/watch?v=3arCAf72HdY
