@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-16T19:54:27.697Z'
-datePublished: '2018-05-16T19:54:29.034Z'
+dateModified: '2018-05-16T19:58:21.353Z'
+datePublished: '2018-05-16T19:58:22.299Z'
 title: '[NV#190] Kapłaństwo kobiet, pieniądze w zakonie ( Q&A#25)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-16-nv190-kaplanstwo-kobiet-pieniadze-w-zakonie-qanda25.md
 starred: false
 datePublishedOriginal: '2018-05-16T19:54:29.034Z'
-sourcePath: _posts/2018-05-16-nv190-kaplanstwo-kobiet-pieniadze-w-zakonie-qanda25.md
 _type: Blurb
 
 ---
