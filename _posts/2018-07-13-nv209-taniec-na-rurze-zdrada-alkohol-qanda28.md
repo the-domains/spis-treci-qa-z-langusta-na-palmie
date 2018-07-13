@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T06:54:29.785Z'
-datePublished: '2018-07-13T06:54:30.290Z'
+dateModified: '2018-07-13T06:58:43.405Z'
+datePublished: '2018-07-13T06:58:44.176Z'
 title: '[NV#209] Taniec na rurze, zdrada, alkohol (Q&A#28)'
 author: []
 publisher: {}
@@ -17,6 +17,8 @@ _type: Blurb
 [link do youtube][0]
 
 1. Pole dance - od jakiegoś czasu staje się popularny. Nawet ma być (bądź już jest) dyscypliną sportu. Dla mnie to dosyć niejednoznaczne, jeśli młoda żona chciałaby (bez żadnej presji ze strony męża) nauczyć się tańczyć na rurze a później zamontować taką rurę w sypialni i jej używać to czy jest w tym coś złego?
-2. 
+2. Czy oglądanie reklam przed właściwym filmem coś daje dla Langusty?
+3. Ostatnio czytałam, że kobiety nie powinny nosić spodni bo to smuci Pana Boga i dla kobiet są sukienki ii spódnice a mężczyzn spodnie. (...) Jak mam się do tego odnieść, naprawdę Pan bóg jest smutny że noszą spodnie?
+4. 
 
 [0]: https://www.youtube.com/watch?v=Y6IcZNcscQ4
