@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T07:16:05.046Z'
-datePublished: '2018-07-13T07:16:05.707Z'
+dateModified: '2018-07-13T07:17:07.209Z'
+datePublished: '2018-07-13T07:17:07.683Z'
 title: '[NV#209] Taniec na rurze, zdrada, alkohol (Q&A#28)'
 author: []
 publisher: {}
@@ -29,6 +29,6 @@ _type: Blurb
 11. (...) Jaką ojciec przeczytał ostatnio książkę?
 12. Kiedy Polska będzie mistrzem świata?
 13. (...) zakupiłam sobie kilka Szustakowych książek. Chciałam, żeby Ojciec maznął na nich swój autograf, ale spotkałem się z odmową...że to niby Ojciec ma taką regułę. A czemu nie bardzo rozumiem (choć szanuję) ?
-14. 
+14. A czy noszenie bielizny wyszczuplającej to pycha i kłamstwo?
 
 [0]: https://www.youtube.com/watch?v=Y6IcZNcscQ4
