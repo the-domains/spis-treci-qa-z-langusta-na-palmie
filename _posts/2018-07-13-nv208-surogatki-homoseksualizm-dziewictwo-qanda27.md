@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T06:33:32.040Z'
-datePublished: '2018-07-13T06:33:32.802Z'
+dateModified: '2018-07-13T06:35:36.832Z'
+datePublished: '2018-07-13T06:35:37.421Z'
 title: '[NV#208] Surogatki, homoseksualizm, dziewictwo (Q&A#27)'
 author: []
 publisher: {}
@@ -22,6 +22,7 @@ _type: Blurb
 4. Jaki to jest cud, który nawet dla Boga nie jest łatwy?
 5. Parę lat temu pewne osoby mnie skrzywdziły jedna z nich do mnie ostatnio napisała, że żałuje tego co mi kiedyś zrobiła, powiem szczerze że miałem przez pewien czas ogromną satysfakcję z tego, że to ona wyciągnęła pierwsza rękę...ale do rzecz...nie przyjęłam jej przeprosin...czy popełniam grzech nie wybaczając? Tzn ja jej (tym wszystkim kobietom) wybaczyłem już dawno, ale jakoś ciężko mi to przyznać przed nimi.
 6. Czy przed ślubem trzeba narzeczonemu mówić wszystko o swojej przeszłości. Narzeczony powiedział mi dużo o swojej przeszłości a ja o sobie powiedziałem mu tylko ogólne informacje, nie powiedziałam mu, że nie jestem dziewicą. Wprost o to zapytał (...) Zrobiłam to, bo znam go - udawałby, że wszystko jest w porządku a tak naprawdę ten fakt z mojej przeszłości bardzo by go zasmucił. (...) Czy jeśli nie powiem mu nigdy to małżeństwo będzie zawarte ważnie?
-7. 
+7. (...) Czy planuje Ojciec zwolnić tempo i zająć się inną formą ewangelizacji?(...) Jak to jest z przenosinami zakonników do innych miast?
+8. 
 
 [0]: https://www.youtube.com/watch?v=kXNFvhcWB1Q
