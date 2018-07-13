@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T07:08:41.486Z'
-datePublished: '2018-07-13T07:08:42.225Z'
+dateModified: '2018-07-13T07:16:05.046Z'
+datePublished: '2018-07-13T07:16:05.707Z'
 title: '[NV#209] Taniec na rurze, zdrada, alkohol (Q&A#28)'
 author: []
 publisher: {}
@@ -23,6 +23,12 @@ _type: Blurb
 5. Czy wiedząc, że mąż mojej przyjaciółki ją zdradza, powinnam ją o tym poinformować czy zachować dla siebie aby nie rozbijać małżeństwa?
 6. Kilka tygodni temu zmarła moja znajoma. Nie chodziła do kościoła chyba, że od świąt do świąt. Kościół był dla niej jakoś nie po drodze. Ale była osobą bardzo życzliwą, kochaną i bardzo rodzinną. Wszyscy ją bardzo lubili i po dziś dzień ją bardzo miło wspominają. Po śmierci oddała też swoje narządy do przeszczepu. Czy taka osoba trfi do nieba? Czy trafi do piekła?
 7. Czy picie alkoholu z umiarem przed 18 rokiem życia jest grzechem ciężkim? (...) Ostatnio byłam na weselu i wypiłam kilka lampek wina.
-8. 
+8. Co Ojciec sądzi o Deadpoolu?
+9. (...) Nie ma nic bardziej gorszącego niż katolik hejtujący innych i jeszcze na koniec oznajmujący "będę się za Ciebie modlił" co brzmi zwyczajnie jak policzek. (...)
+10. Czy Ojciec czyta te wszystkie komentarze? Co to za nowa dieta?
+11. (...) Jaką ojciec przeczytał ostatnio książkę?
+12. Kiedy Polska będzie mistrzem świata?
+13. (...) zakupiłam sobie kilka Szustakowych książek. Chciałam, żeby Ojciec maznął na nich swój autograf, ale spotkałem się z odmową...że to niby Ojciec ma taką regułę. A czemu nie bardzo rozumiem (choć szanuję) ?
+14. 
 
 [0]: https://www.youtube.com/watch?v=Y6IcZNcscQ4
