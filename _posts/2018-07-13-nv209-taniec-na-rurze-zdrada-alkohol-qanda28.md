@@ -1,21 +1,22 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T06:51:22.294Z'
-datePublished: '2018-07-13T06:51:22.945Z'
+dateModified: '2018-07-13T06:53:53.942Z'
+datePublished: '2018-07-13T06:53:54.647Z'
 title: '[NV#209] Taniec na rurze, zdrada, alkohol (Q&A#28)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-13-nv209-taniec-na-rurze-zdrada-alkohol-qanda28.md
 starred: false
 datePublishedOriginal: '2018-07-13T06:51:22.945Z'
-sourcePath: _posts/2018-07-13-nv209-taniec-na-rurze-zdrada-alkohol-qanda28.md
 _type: Blurb
 
 ---
 # \[NV\#209\] Taniec na rurze, zdrada, alkohol (Q&A\#28)
 [link do youtube][0]
 
-1. 
+1. Pole dance - od jakiegoś czasy staje się popularny. Nawet ma być (bądź już jest) dyscypliną sportu. Dla mnie to dosyć niejednoznaczne, jeśli młoda żona chciałaby (bez żadnej presji ze strony męża) nauczyć się tańczyć na rurze a później zamontować taką rurę w sypialni i jej używać to czy jest w tym coś złego?
+2. 
 
 [0]: https://www.youtube.com/watch?v=Y6IcZNcscQ4
