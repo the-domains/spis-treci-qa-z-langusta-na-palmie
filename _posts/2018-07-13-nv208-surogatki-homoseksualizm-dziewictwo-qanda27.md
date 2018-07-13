@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-13T06:41:52.322Z'
-datePublished: '2018-07-13T06:41:52.926Z'
+dateModified: '2018-07-13T06:50:19.754Z'
+datePublished: '2018-07-13T06:50:20.499Z'
 title: '[NV#208] Surogatki, homoseksualizm, dziewictwo (Q&A#27)'
 author: []
 publisher: {}
@@ -24,5 +24,7 @@ _type: Blurb
 6. Czy przed ślubem trzeba narzeczonemu mówić wszystko o swojej przeszłości. Narzeczony powiedział mi dużo o swojej przeszłości a ja o sobie powiedziałem mu tylko ogólne informacje, nie powiedziałam mu, że nie jestem dziewicą. Wprost o to zapytał (...) Zrobiłam to, bo znam go - udawałby, że wszystko jest w porządku a tak naprawdę ten fakt z mojej przeszłości bardzo by go zasmucił. (...) Czy jeśli nie powiem mu nigdy to małżeństwo będzie zawarte ważnie?
 7. (...) Czy planuje Ojciec zwolnić tempo i zająć się inną formą ewangelizacji?(...) Jak to jest z przenosinami zakonników do innych miast?
 8. Mam w rodzinie osobę homoseksualną. Jest to moja bliska kuzynka. Jest wierząca, chodzi do kościoła modli się i wiem, że Bóg jest dla niej bardzo ważny. Stara się walczyć ze swoimi skłonnościami, ale nie zrobiła "coming-outu" bo boi się, że rodzina tego nie zrozumie i będzie próbowała "naprawić". W Wielki Piątek poszłyśmy razem do kościoła(...) jak bardzo tęskniła za Panem Jezusem (...) Czy mogę jej jakoś pomóc? Czy zachęcić do spowiedzi? Czy może pomóc jej znaleźć kierownika duchowego? Nie chodzi mi o to by ją "wyleczyć", ale o to żeby przestała czuć się taka zmiażdżona.
+9. Jaka jest oficjalna nauka KK odnośnie kształtu czy ruchu ziemi w kosmosie?
+10. Czy langusta w intro puszcza bąka?
 
 [0]: https://www.youtube.com/watch?v=kXNFvhcWB1Q
