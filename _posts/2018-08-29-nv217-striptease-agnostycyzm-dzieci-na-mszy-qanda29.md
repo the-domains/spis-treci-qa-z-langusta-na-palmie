@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-08-29T06:57:41.012Z'
-datePublished: '2018-08-29T06:57:41.677Z'
+dateModified: '2018-08-29T07:01:04.399Z'
+datePublished: '2018-08-29T07:01:05.089Z'
 title: '[NV#217] Striptease, agnostycyzm, dzieci na mszy (Q&A#29)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-08-29-nv217-striptease-agnostycyzm-dzieci-na-mszy-qanda29.md
 starred: false
 datePublishedOriginal: '2018-08-29T06:57:41.677Z'
-sourcePath: _posts/2018-08-29-nv217-striptease-agnostycyzm-dzieci-na-mszy-qanda29.md
 _type: Blurb
 
 ---
@@ -26,6 +26,5 @@ _type: Blurb
 8. Byłam ostatnio na chrześcijańskim speed datingu i to był.... TRAGES. Faceci patrzyli na mnie, jakbym się urwała z choinki, gdy mówiłam, że lubię rock, filmy Marvela o książki fantasy (jednocześnie twierdząc, że jestem osobą wierzącą). A może to jednak nie moje upodobania są problemem, ale poczucie humoru (dużo żartowałam dla rozluźnienia atmosfery)? 
 9. Mam pytanie odnośnie zakonów. Otóż jestem osobą niepełnosprawną od szóstego roku życia, ale nie wiem co mam zrobić ze swoim życiem. (...) Dużo myślałam o zakonie, ale słyszałem, że do zakonów nie chcą przyjmować osób z niepełnosprawnością. Więc jak to jest? Czy ludzie z widocznymi ułomnościami są w ogóle już na starcie przegrani?
 10. Chodzę na Msze Św z moim synkiem 2,5 lat. Niestety ciągle zamiast się skupić na przeżywaniu eucharystii muszę się nim zajmować i niekiedy to on zajmuje mi większość uwagi. Bardzo szybko się nudzi, a ustawienie w jednym miejscu przez dłuższą chwilę to dla niego tortura. Czasami się zastanawiam czy tak przeżyta Msza przeze mnie w ogóle ma sens. Niestety nie jestem w stanie nigdzie go zostawić pod opieką. Wiem, że Jezus kiedyś powiedział "Pozwólcie dzieciom przychodzić do mnie" ale gdyby ojciec widział te wszystkie spojrzenia pełne wyrzutu....co robić?
-11. 
 
 [0]: https://www.youtube.com/watch?v=G0AA4ctN3RQ&
