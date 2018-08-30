@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-08-30T19:55:22.837Z'
-datePublished: '2018-08-30T19:55:23.747Z'
+dateModified: '2018-08-30T20:24:59.091Z'
+datePublished: '2018-08-30T20:25:00.338Z'
 title: '[NV#223] Czy Bóg lubi policjantów, adopcja, wróżki (Q&A#30)'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-08-30-nv223-czy-bog-lubi-policjantow-adopcja-wrozki-qanda30.md
 starred: false
 datePublishedOriginal: '2018-08-30T19:55:23.747Z'
-sourcePath: _posts/2018-08-30-nv223-czy-bog-lubi-policjantow-adopcja-wrozki-qanda30.md
 _type: Blurb
 
 ---
@@ -24,6 +24,10 @@ _type: Blurb
 6. Czy ksiądz, który był współsprawcą grzechu może z niego wyspowiadać? (...)
 7. <Podziękowania\>
 8. Dziś koleżanka, która wierzy w Pana Jezusa powiedziała mi, że nasza religia to "nie jest religia radości".... a ja tego nie rozumiem... wiem, że było masę bólu u Pana Jezusa, ale jest też zmartwychwstanie, niebo, miłosierdzie, anioł z okrzykiem "raduuuuj się Maryjo!", jest o. Antonello, jest tyle ciepła i piękna... Naprawdę to nie jest religia radości?
-9. 
+9. A ja jestem ciekawe jak wygląda Ojca walka duchowa? (...)
+10. Mam pytania odnośnie dobrych uczynków popełnionych w stanie grzechu ciężkiego. Czy na prawdę tak jest, że Pana Boga "nie interesują" dobre uczynki, które popełniliśmy w stanie grzechu ciężkiego? (...)
+11. Kiedy ruszają zapisy na październikowe spotkanie w Spodku?
+12. Usłyszałam od znajomej, że nie powinno się wieszać krzyża nad drzwiami i, że nie darowuje się krzyża nikomu, bo wtedy osoba ta dźwiga nie swój krzyż a darczyńcy krzyż.
+13. Czy jako przyszły policjant mógłbym się jakoś przyczynić dla Boga? Wiemy jak wygląda praca w policji (policja nie przyjeżdża do miłych rzeczy), jak również wiem o tym, że to służba dla ludzi, ale realia są czasem inne, czasem trzeba ostrzej podejść do ludzi. (...) Czy Bóg będzie szczęśliwy, że będę policjantem i czy jest takie coś jak powołanie jako policjant?
 
 [0]: https://www.youtube.com/watch?v=h0Y--noB5zA&t=33s
