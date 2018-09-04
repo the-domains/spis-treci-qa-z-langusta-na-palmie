@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-09-04T19:06:39.898Z'
-datePublished: '2018-09-04T19:06:40.658Z'
+dateModified: '2018-09-04T19:06:40.994Z'
+datePublished: '2018-09-04T19:06:41.525Z'
 title: '[NV#223] Czy Bóg lubi policjantów, adopcja, wróżki (Q&A#30)'
 author: []
 publisher: {}
