@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-09-04T20:13:23.325Z'
-datePublished: '2018-09-04T20:13:23.783Z'
+dateModified: '2018-09-04T20:14:29.908Z'
+datePublished: '2018-09-04T20:14:30.531Z'
 title: '[NV#232] Anoreksja, bulimia, przepisy drogowe (Q&A#32)'
 author: []
 publisher: {}
@@ -23,6 +23,5 @@ _type: Blurb
 5. Co ojciec sądzi o przystąpieniu do komunii świętej dzieci upośledzonych? (...)
 6. <Anoreksja, bulimia\>
 7. Jestem osobą nie wierzącą mimo to staram się nie zamykać na inne opinie i poglądy dlatego też tu trafiłam. Pochodzę z rodziny bardzo wierzącej i często słyszę od rodziców wyrażenia typu "ja przy chrzcie obiecałem/em, że będę Cię prowadzić 'dobra drogą' i przez to, że Ty nie wierzysz ja pójdę do piekła" itp, starałam się wytłumaczyć (na tyle na ile może dzieciak wytłumaczyć coś rodzicom), że oni pokazywali mi wszystko co najlepsze w tej wierze i, że więcej zrobić nie mogli.. mogą mi cały czas dawać wskazówki i opowiadać na temat Pana Boga itd ale koniec końców należy do mnie.. Zatem moim pytaniem jest co powinnam im powiedzieć? i czy na prawdę byłabym temu winna?
-8. 
 
 [0]: https://www.youtube.com/watch?v=48cAKVRIJhU
