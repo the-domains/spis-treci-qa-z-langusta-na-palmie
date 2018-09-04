@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-09-04T19:06:40.994Z'
-datePublished: '2018-09-04T19:06:41.525Z'
-title: '[NV#223] Czy Bóg lubi policjantów, adopcja, wróżki (Q&A#30)'
+dateModified: '2018-09-04T19:20:24.839Z'
+datePublished: '2018-09-04T19:20:28.061Z'
+title: '[NV#229] Homeopatia - zła czy dobra? (Q&A#31)'
 author: []
 publisher: {}
 via: {}
@@ -13,8 +13,11 @@ datePublishedOriginal: '2018-08-30T19:55:23.747Z'
 _type: Blurb
 
 ---
-# \[NV\#223\] Czy Bóg lubi policjantów, adopcja, wróżki (Q&A\#30)
+# \[NV\#229\] Homeopatia - zła czy dobra? (Q&A\#31)
 [link do youtube][0]
+
+# \[NV\#223\] Czy Bóg lubi policjantów, adopcja, wróżki (Q&A\#30)
+[link do youtube][1]
 
 1. Dlaczego tak jest, że "złego diabli nie biorą"? (...)
 2. Dlaczego zakonnicy mogą zdejmować habit i se pomykać w bluzie np., a zakonnice nie mogą? (...)
@@ -30,4 +33,5 @@ _type: Blurb
 12. Usłyszałam od znajomej, że nie powinno się wieszać krzyża nad drzwiami i, że nie darowuje się krzyża nikomu, bo wtedy osoba ta dźwiga nie swój krzyż a darczyńcy krzyż.
 13. Czy jako przyszły policjant mógłbym się jakoś przyczynić dla Boga? Wiemy jak wygląda praca w policji (policja nie przyjeżdża do miłych rzeczy), jak również wiem o tym, że to służba dla ludzi, ale realia są czasem inne, czasem trzeba ostrzej podejść do ludzi. (...) Czy Bóg będzie szczęśliwy, że będę policjantem i czy jest takie coś jak powołanie jako policjant?
 
-[0]: https://www.youtube.com/watch?v=h0Y--noB5zA&t=33s
+[0]: https://www.youtube.com/watch?v=e2E3MSX0b9U
+[1]: https://www.youtube.com/watch?v=h0Y--noB5zA&t=33s
