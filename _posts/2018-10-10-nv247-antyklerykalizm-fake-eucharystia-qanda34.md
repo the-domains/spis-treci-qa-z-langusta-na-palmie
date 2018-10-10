@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:20:33.331Z'
-datePublished: '2018-10-10T19:20:34.191Z'
+dateModified: '2018-10-10T19:27:00.499Z'
+datePublished: '2018-10-10T19:27:01.174Z'
 title: '[NV#247] Antyklerykalizm, fake Eucharystia (Q&A#34)'
 author: []
 publisher: {}
@@ -18,6 +18,6 @@ _type: Blurb
 
 1. Ojcze, krytyka KK w naszym kraju zaczyna odbiegać od jakichkolwiek standardów konstruktywnej dyskusji. Antyklerykalny hejt jest coraz bardziej agresywny, a my jako katolicy ciągle jesteśmy atakowani, wyszydzani, dyskryminowani. Jaką przyjąć postawę wobec tego zjawiska?
 2. Mój chłopak jest wysoko funkcjonującym alkoholikiem. Pije praktycznie cały czas kiedy nie pracuje. (...) Nie mam pojęcia jak mu pomóc, próbowałem wszystkiego (...) Od jakiegoś czasu jestem tym już bardzo zmęczona i rozważam poddanie się i odejście od niego. Boję się jednak i jest to całkiem realne zagrożenie, że on po prostu umrze jeżeli nie przestanie pić. Wiem, że dla mnie byłoby lepiej gdybym odeszła, i wiem, że sobie poradzę, ale moja chrześcijańska postawa nie pozwala mi tak po prostu zostawić człowieka (i to człowieka którego kocham). Czy ja mogę go tak po prostu zostawić na pastwę losu?
-3. 
+3. Czy można jeszcze raz przejść bierzmowanie? Kiedy przyjęłam ten sakrament byłam totalnie niedojrzała i nieprzygotowana. (...) Teraz po kilku latach trochę dojrzałam i strasznie żałuję, że nie przeżyłam tego wtedy jak należy. (...) Da się to jakoś naprawić? A może nie potrzebuję naprawy i mimo mojej niedojrzałości Duch św i tak zadziałał?
 
 [0]: https://www.youtube.com/watch?v=BamSpCc2MBk
