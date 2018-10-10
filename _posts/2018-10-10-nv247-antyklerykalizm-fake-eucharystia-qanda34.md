@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:40:07.059Z'
-datePublished: '2018-10-10T19:40:08.181Z'
+dateModified: '2018-10-10T19:40:12.910Z'
+datePublished: '2018-10-10T19:40:13.633Z'
 title: '[NV#247] Antyklerykalizm, fake Eucharystia (Q&A#34)'
 author: []
 publisher: {}
@@ -23,6 +23,7 @@ _type: Blurb
 5. Co w sytuacji kiedy wierni przyjmują zwykły opłatek zamiast konsekrowanej komunii? Mianowicie na 99,9% wiem, że proboszcz w pewnej parafii nie konsekruje komunii (nie ma kielicha z komunikantami podczas przeistoczenia, widziałam jak kiedyś podczas mszy zabrakło komunii więc kapłan wyjął ją z woreczka i rozdawał dalej...) Czy wiara przyjmujących komunię w to, że jest w niej Chrystus wystarczy?
 6. Czy kiedyś jadłeś langustę?
 7. Co Ojciec sądzi o uczestnictwie we Mszy Św. przez internet?
-8. Dlaczego My Little Pony to złooooooo? Czy chodzi o to, że tam jest magia? W Wielu bajkach jest magia, ale nie ma, że to zło - oprócz Harrego Pottera. (...) W czarnoksiężniku z krainy Oz też jest magia. 
+8. Dlaczego My Little Pony to złooooooo? Czy chodzi o to, że tam jest magia? W Wielu bajkach jest magia, ale nie ma, że to zło - oprócz Harrego Pottera. (...) W czarnoksiężniku z krainy Oz też jest magia.
+9. 
 
 [0]: https://www.youtube.com/watch?v=BamSpCc2MBk
