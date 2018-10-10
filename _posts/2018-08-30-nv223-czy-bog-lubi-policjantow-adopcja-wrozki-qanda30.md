@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:10:53.528Z'
-datePublished: '2018-10-10T19:10:55.149Z'
+dateModified: '2018-10-10T19:43:20.153Z'
+datePublished: '2018-10-10T19:43:21.830Z'
 title: '[NV#229] Homeopatia - zła czy dobra? (Q&A#31)'
 author: []
 publisher: {}
