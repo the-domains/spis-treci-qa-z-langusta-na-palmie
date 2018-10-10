@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:40:12.910Z'
-datePublished: '2018-10-10T19:40:13.633Z'
+dateModified: '2018-10-10T19:42:50.263Z'
+datePublished: '2018-10-10T19:42:51.556Z'
 title: '[NV#247] Antyklerykalizm, fake Eucharystia (Q&A#34)'
 author: []
 publisher: {}
@@ -24,6 +24,6 @@ _type: Blurb
 6. Czy kiedyś jadłeś langustę?
 7. Co Ojciec sądzi o uczestnictwie we Mszy Św. przez internet?
 8. Dlaczego My Little Pony to złooooooo? Czy chodzi o to, że tam jest magia? W Wielu bajkach jest magia, ale nie ma, że to zło - oprócz Harrego Pottera. (...) W czarnoksiężniku z krainy Oz też jest magia.
-9. 
+9. Czy córce 10 letniej kupić smartfona? (...)
 
 [0]: https://www.youtube.com/watch?v=BamSpCc2MBk
