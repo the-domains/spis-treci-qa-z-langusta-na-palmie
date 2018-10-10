@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:34:11.797Z'
-datePublished: '2018-10-10T19:34:12.764Z'
+dateModified: '2018-10-10T19:40:07.059Z'
+datePublished: '2018-10-10T19:40:08.181Z'
 title: '[NV#247] Antyklerykalizm, fake Eucharystia (Q&A#34)'
 author: []
 publisher: {}
@@ -21,5 +21,8 @@ _type: Blurb
 3. Czy można jeszcze raz przejść bierzmowanie? Kiedy przyjęłam ten sakrament byłam totalnie niedojrzała i nieprzygotowana. (...) Teraz po kilku latach trochę dojrzałam i strasznie żałuję, że nie przeżyłam tego wtedy jak należy. (...) Da się to jakoś naprawić? A może nie potrzebuję naprawy i mimo mojej niedojrzałości Duch św i tak zadziałał?
 4. Jak to jest, że kościoły pełne są symboli Jezusa Chrystusa, Maryi, Świętych, a Boga Ojca to co najwyżej mały fragmencik w postaci Oka w witrażu, o ile w ogóle jest. Czy nie jest trochę tak, że te nasze świątynie propagują kult Chrystusa, Maryi, zapominając o najważniejszym Bogu Ojcu? W końcu Świątynia, to podobno Dom Ojca? Mam rację czy może czegoś nie rozumiem?
 5. Co w sytuacji kiedy wierni przyjmują zwykły opłatek zamiast konsekrowanej komunii? Mianowicie na 99,9% wiem, że proboszcz w pewnej parafii nie konsekruje komunii (nie ma kielicha z komunikantami podczas przeistoczenia, widziałam jak kiedyś podczas mszy zabrakło komunii więc kapłan wyjął ją z woreczka i rozdawał dalej...) Czy wiara przyjmujących komunię w to, że jest w niej Chrystus wystarczy?
+6. Czy kiedyś jadłeś langustę?
+7. Co Ojciec sądzi o uczestnictwie we Mszy Św. przez internet?
+8. Dlaczego My Little Pony to złooooooo? Czy chodzi o to, że tam jest magia? W Wielu bajkach jest magia, ale nie ma, że to zło - oprócz Harrego Pottera. (...) W czarnoksiężniku z krainy Oz też jest magia. 
 
 [0]: https://www.youtube.com/watch?v=BamSpCc2MBk
