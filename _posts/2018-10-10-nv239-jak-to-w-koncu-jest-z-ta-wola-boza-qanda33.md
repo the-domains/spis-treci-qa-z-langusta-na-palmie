@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-10T19:00:24.561Z'
-datePublished: '2018-10-10T19:00:26.322Z'
+dateModified: '2018-10-10T19:10:53.528Z'
+datePublished: '2018-10-10T19:10:55.313Z'
 title: '[NV#239] Jak to w końcu jest z tą wolą Bożą? (Q&A#33)'
 author: []
 publisher: {}
