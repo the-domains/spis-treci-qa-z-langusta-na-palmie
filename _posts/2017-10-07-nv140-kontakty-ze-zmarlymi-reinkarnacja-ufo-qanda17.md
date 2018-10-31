@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-31T06:29:06.764Z'
-datePublished: '2018-10-31T06:29:07.635Z'
+dateModified: '2018-10-31T06:36:01.231Z'
+datePublished: '2018-10-31T06:36:02.113Z'
 title: '[NV#140] Kontakty ze zmarłymi, reinkarnacja, ufo (Q&A#17)'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-07-nv140-kontakty-ze-zmarlymi-reinkarnacja-ufo-qanda17.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-10-07T17:24:16.208Z'
-url: nv140-kontakty-ze-zmarlymi-reinkarnacja-ufo-qanda17/index.html
-_type: Article
+_type: Blurb
 
 ---
 # \[NV\#140\] Kontakty ze zmarłymi, reinkarnacja, ufo (Q&A\#17)
