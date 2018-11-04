@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-04T19:29:03.999Z'
-datePublished: '2018-11-04T19:29:04.233Z'
+dateModified: '2018-11-04T19:31:13.441Z'
+datePublished: '2018-11-04T19:31:14.744Z'
 title: '[NV#140] Kontakty ze zmarłymi, reinkarnacja, ufo (Q&A#17)'
 author: []
 publisher: {}
@@ -28,4 +28,4 @@ _type: Blurb
 10. Ojcze Adamie, mnie ciekawi stanowisko Kościoła w sprawie ewentualnego życia pozaziemskiego i nie myślę tu o żywych bakteriach czy innych mikroorganizmach ale o inteligentnych istotach.
 11. Mógłby ojciec przy następnym Q&A przeczytać moje pytanie o przeczytaniu tego pytania?:) (z serii puchar za suchar)
 12. W Biblii napisano, że kto wierzy może nawet powiedzieć do góry "Przesuń się" i tak się stanie. i nie będzie nic niemożliwego. Ale co w przypadku, gdy mam kartkówkę/klasówkę, nie uczę się, nie umiem materiału, ale wierzę, że napiszę na 5\. Czy tak się stanie?
-13. Dlaczego (...) są takie nie miłe??
+13. Dlaczego (...) są takie nie miłe?
