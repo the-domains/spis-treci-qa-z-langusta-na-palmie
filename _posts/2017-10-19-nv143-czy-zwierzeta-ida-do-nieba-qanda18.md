@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-04T18:54:46.126Z'
-datePublished: '2018-11-04T18:54:57.217Z'
-title: '[NV#143]  Czy zwierzęta idą do nieba? (Q&A#18)'
+dateModified: '2018-11-04T19:19:23.057Z'
+datePublished: '2018-11-04T19:19:23.818Z'
+title: '[NV#143] Czy zwierzęta idą do nieba?? (Q&A#18)'
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2018-11-04T18:54:57.217Z'
 _type: Blurb
 
 ---
-# \[NV\#143\] Czy zwierzęta idą do nieba? (Q&A\#18)
+# \[NV\#143\] Czy zwierzęta idą do nieba?? (Q&A\#18)
 [link do youtube][0]
 
 [0]: https://youtu.be/QN4bwrR2kVg
