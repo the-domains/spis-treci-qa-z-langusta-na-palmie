@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!'
-dateModified: '2018-11-10T19:19:00.566Z'
-datePublished: '2018-11-10T19:19:01.642Z'
+dateModified: '2018-11-10T19:22:00.449Z'
+datePublished: '2018-11-10T19:22:01.547Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-11-10-rtck-qanda-z-adamem-szustakiem-op-jakiego-nie-bylo.md
 starred: false
 datePublishedOriginal: '2018-11-10T19:19:01.642Z'
-sourcePath: _posts/2018-11-10-rtck-qanda-z-adamem-szustakiem-op-jakiego-nie-bylo.md
 _type: Blurb
 
 ---
@@ -23,6 +23,8 @@ RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!
 5. O czym możesz mówić bez końca?
 6. Co robisz w wolny wieczór?
 7. Czy Twój styl życia daje Ci szansę na bliskie przyjaźnie?
-8. 
+8. Czy masz autorytety z którymi się liczysz?
+9. Najdziwniejsza rzecz, jaką o sobie przeczytałeś w internecie?
+10. 
 
 [0]: https://www.youtube.com/watch?v=oIaSl4dbu6c
