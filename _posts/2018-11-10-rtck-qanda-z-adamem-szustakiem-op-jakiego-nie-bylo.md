@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!'
-dateModified: '2018-11-10T19:22:00.449Z'
-datePublished: '2018-11-10T19:22:01.547Z'
+dateModified: '2018-11-10T19:30:57.474Z'
+datePublished: '2018-11-10T19:30:58.516Z'
 title: ''
 author: []
 publisher: {}
@@ -25,6 +25,12 @@ RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!
 7. Czy Twój styl życia daje Ci szansę na bliskie przyjaźnie?
 8. Czy masz autorytety z którymi się liczysz?
 9. Najdziwniejsza rzecz, jaką o sobie przeczytałeś w internecie?
-10. 
+10. Ulubiony film?
+11. Jakiej muzyki słuchasz?
+12. O czym marzysz na najbliższy rok?
+13. Czym Cię ludzie zaskakują od kiedy jesteś znany w sieci?
+14. Kim jest dla Ciebie Jezus?
+15. Jak sobie radzisz z krytyką?
+16. Co powiedziałbyś komuś, kto uważa, że nie potrzebuje Boga?
 
 [0]: https://www.youtube.com/watch?v=oIaSl4dbu6c
