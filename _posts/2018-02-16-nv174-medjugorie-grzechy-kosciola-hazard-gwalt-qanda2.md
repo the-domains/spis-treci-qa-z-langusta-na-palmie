@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-10T19:10:12.136Z'
-datePublished: '2018-11-10T19:10:13.963Z'
+dateModified: '2018-11-10T19:31:35.580Z'
+datePublished: '2018-11-10T19:31:37.087Z'
 title: '[NV#174] Medjugorie, grzechy Kościoła, hazard, gwałt  (Q&A#22)'
 author: []
 publisher: {}
