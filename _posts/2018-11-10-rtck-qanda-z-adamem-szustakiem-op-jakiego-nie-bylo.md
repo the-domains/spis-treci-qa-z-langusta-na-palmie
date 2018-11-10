@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!'
-dateModified: '2018-11-10T19:30:57.474Z'
-datePublished: '2018-11-10T19:30:58.516Z'
+dateModified: '2018-11-10T19:31:35.580Z'
+datePublished: '2018-11-10T19:31:37.059Z'
 title: ''
 author: []
 publisher: {}
