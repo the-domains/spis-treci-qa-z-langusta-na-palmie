@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-29T11:08:49.264Z'
-datePublished: '2018-10-29T11:08:52.830Z'
+dateModified: '2018-11-10T19:10:12.136Z'
+datePublished: '2018-11-10T19:10:13.893Z'
 title: '[NV#190] Kapłaństwo kobiet, pieniądze w zakonie ( Q&A#25)'
 author: []
 publisher: {}
