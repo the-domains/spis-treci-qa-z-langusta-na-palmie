@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-11T19:50:44.036Z'
-datePublished: '2018-11-11T19:50:45.251Z'
+dateModified: '2018-11-11T19:51:04.151Z'
+datePublished: '2018-11-11T19:51:04.795Z'
 title: 'RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!'
 author: []
 publisher: {}
@@ -13,9 +13,7 @@ datePublishedOriginal: '2018-11-10T19:19:01.642Z'
 _type: Blurb
 
 ---
-## RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!
-
-## RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!
+# RTCK: Q&A z Adamem Szustakiem OP jakiego nie było!
 [link do youtube][0]
 
 1. Dlaczego mówisz do ludzi?
