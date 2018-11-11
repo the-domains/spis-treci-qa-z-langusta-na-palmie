@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-11T19:43:38.685Z'
-datePublished: '2018-11-11T19:43:39.275Z'
+dateModified: '2018-11-11T19:48:04.788Z'
+datePublished: '2018-11-11T19:48:07.937Z'
 title: '[NV#138] Kościół usunął drugie przykazanie? (Q&A#16)'
 author: []
 publisher: {}
