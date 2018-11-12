@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-11T19:53:18.799Z'
-datePublished: '2018-11-11T19:53:20.486Z'
+dateModified: '2018-11-12T16:05:45.933Z'
+datePublished: '2018-11-12T16:05:47.461Z'
 title: '[NV#247] Antyklerykalizm, fake Eucharystia (Q&A#34)'
 author: []
 publisher: {}
