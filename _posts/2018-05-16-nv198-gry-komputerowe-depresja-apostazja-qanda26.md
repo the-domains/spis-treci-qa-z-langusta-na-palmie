@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T18:41:42.047Z'
-datePublished: '2018-11-12T18:41:44.001Z'
+dateModified: '2018-11-12T18:42:03.009Z'
+datePublished: '2018-11-12T18:42:04.772Z'
 title: '[NV#198] Gry komputerowe, depresja, apostazja (Q&A#26)'
 author: []
 publisher: {}
