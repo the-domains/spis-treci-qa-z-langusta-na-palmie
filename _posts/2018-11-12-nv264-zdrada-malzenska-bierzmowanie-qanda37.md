@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T18:32:51.417Z'
-datePublished: '2018-11-12T18:32:52.403Z'
+dateModified: '2018-11-12T18:32:53.044Z'
+datePublished: '2018-11-12T18:32:53.534Z'
 title: '[NV#264] Zdrada małżeńska, bierzmowanie (Q&A#37)'
 author: []
 publisher: {}
