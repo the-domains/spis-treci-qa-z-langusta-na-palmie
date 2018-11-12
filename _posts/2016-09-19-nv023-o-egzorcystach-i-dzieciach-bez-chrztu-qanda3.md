@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-11-12T18:41:44.347Z'
+datePublished: '2018-11-12T18:42:04.801Z'
 sourcePath: _posts/2016-09-19-nv023-o-egzorcystach-i-dzieciach-bez-chrztu-qanda3.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-11-12T18:41:42.047Z'
+dateModified: '2018-11-12T18:42:03.009Z'
 title: '[NV#023] O egzorcystach i dzieciach bez chrztu (Q&A#3)'
 publisher: {}
 description: ''
