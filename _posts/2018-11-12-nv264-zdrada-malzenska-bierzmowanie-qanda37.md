@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T18:13:23.811Z'
-datePublished: '2018-11-12T18:13:24.643Z'
+dateModified: '2018-11-12T18:32:51.417Z'
+datePublished: '2018-11-12T18:32:52.403Z'
 title: '[NV#264] Zdrada małżeńska, bierzmowanie (Q&A#37)'
 author: []
 publisher: {}
@@ -17,6 +17,10 @@ _type: Blurb
 [link do youtube][0]
 
 1. Kiedy trzeba się spowiadać ze zdrady tzn. kiedy jest zdrada np. czy jeżeli się przytulę do innego mężczyzny to jest zdrada, czy pocałunek to zdrada czy nie? Czy z myśli też trzeba się spowiadać czy tylko z czynów?
-2. 
+2. Co Ojciec sądzi o indeksach do bierzmowania? Przygotowują się do bierzmowania i przy każdej mszy, spowiedzi, nabożeństwach itp muszę dać do podpisu. Oczywiście jest minimalna liczba podpisów, żeby "zaliczyć" rok. (...) Uważa Ojciec, że powinno się te indeksy/dzienniczki stosować?
+3. Dlaczego jest tak zimno?
+4. Ojcze, niedawno znajomy opowiedział mi o następującej sytuacji w domu opieki. Pracuje tam jako masażysta. Do mieszkańców przyszedł kapłan z Komunią św. Jeden z pensjonariuszy, podejrzewam, że osoba niedołężna i starsza wypluł hostię. Nie sądzę, aby zrobił to umyślnie, ale księdza już nie było w pomieszczeniu. Jedna z pracownic rozpuściła hostię w wodzie. (...) Jak się zachować w takich nieprzewidywalnych sytuacjach? Co robić gdy ktoś chory nieumyślnie wypluje Komunię św?
+5. Jaki jest złoty środek między zadręczaniem się i nienawidzeniem siebie za popełnianie grzechów a lekceważącym podejściem do tego, że czyni się zło - jak go znaleźć/jak nad nim pracować?
+6. 
 
 [0]: https://www.youtube.com/watch?v=JBOvXR5yDnI
