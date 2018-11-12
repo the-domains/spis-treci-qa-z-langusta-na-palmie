@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T18:32:53.044Z'
-datePublished: '2018-11-12T18:32:53.534Z'
+dateModified: '2018-11-12T18:35:26.932Z'
+datePublished: '2018-11-12T18:35:29.273Z'
 title: '[NV#264] Zdrada małżeńska, bierzmowanie (Q&A#37)'
 author: []
 publisher: {}
@@ -21,6 +21,6 @@ _type: Blurb
 3. Dlaczego jest tak zimno?
 4. Ojcze, niedawno znajomy opowiedział mi o następującej sytuacji w domu opieki. Pracuje tam jako masażysta. Do mieszkańców przyszedł kapłan z Komunią św. Jeden z pensjonariuszy, podejrzewam, że osoba niedołężna i starsza wypluł hostię. Nie sądzę, aby zrobił to umyślnie, ale księdza już nie było w pomieszczeniu. Jedna z pracownic rozpuściła hostię w wodzie. (...) Jak się zachować w takich nieprzewidywalnych sytuacjach? Co robić gdy ktoś chory nieumyślnie wypluje Komunię św?
 5. Jaki jest złoty środek między zadręczaniem się i nienawidzeniem siebie za popełnianie grzechów a lekceważącym podejściem do tego, że czyni się zło - jak go znaleźć/jak nad nim pracować?
-6. 
+6. Dlaczego mówi się "Pan Bóg", "Pan Jezus", a nie mówi się "Pani Maryja"?
 
 [0]: https://www.youtube.com/watch?v=JBOvXR5yDnI
