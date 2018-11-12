@@ -2,7 +2,7 @@
 inFeed: true
 description: ''
 dateModified: '2018-11-12T18:41:20.342Z'
-datePublished: '2018-11-12T18:41:21.102Z'
+datePublished: '2018-11-12T18:41:21.554Z'
 title: '[NV#265] Czy trzeba płacić dziesięcinę? (Q&A#38)'
 author: []
 publisher: {}
