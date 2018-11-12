@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T16:05:45.933Z'
-datePublished: '2018-11-12T16:05:47.477Z'
+dateModified: '2018-11-12T18:42:03.009Z'
+datePublished: '2018-11-12T18:42:04.738Z'
 title: '[NV#253] Marcin Zieliński - fałszywy charyzmatyk zdemaskowany! (Q&A#35)'
 author: []
 publisher: {}
