@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-11T19:50:44.036Z'
-datePublished: '2018-11-11T19:50:45.251Z'
+dateModified: '2018-11-12T16:05:45.933Z'
+datePublished: '2018-11-12T16:05:47.489Z'
 title: '[NV#261] Halloween - iść czy nie iść? (Q&A#36)'
 author: []
 publisher: {}
