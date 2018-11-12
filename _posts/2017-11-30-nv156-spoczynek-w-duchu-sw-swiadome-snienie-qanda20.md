@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-11T19:53:18.799Z'
-datePublished: '2018-11-11T19:53:20.475Z'
+dateModified: '2018-11-12T16:05:45.933Z'
+datePublished: '2018-11-12T16:05:47.504Z'
 title: '[NV#156] Spoczynek w Duchu Św, świadome śnienie (Q&A#20)'
 author: []
 publisher: {}
