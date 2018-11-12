@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-12T16:05:45.933Z'
-datePublished: '2018-11-12T16:05:47.461Z'
+dateModified: '2018-11-12T18:42:03.009Z'
+datePublished: '2018-11-12T18:42:04.753Z'
 title: '[NV#209] Taniec na rurze, zdrada, alkohol (Q&A#28)'
 author: []
 publisher: {}
