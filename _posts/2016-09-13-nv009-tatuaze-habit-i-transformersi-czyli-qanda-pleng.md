@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-11-12T16:05:47.526Z'
+datePublished: '2018-11-12T18:41:44.349Z'
 sourcePath: _posts/2016-09-13-nv009-tatuaze-habit-i-transformersi-czyli-qanda-pleng.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9Q16lMov0cc'
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/Langustanapalmie'
     avatar: {}
 via: {}
-dateModified: '2018-11-12T16:05:45.933Z'
+dateModified: '2018-11-12T18:41:42.047Z'
 title: '[NV#009] Tatuaże, habit i Transformersi, czyli Q&A'
 publisher: {}
 description: ''
